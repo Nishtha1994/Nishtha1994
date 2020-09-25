@@ -11,7 +11,7 @@ ________________________________________________________________________________
 <p align='center'>
   <a href="https://twitter.com/nishta_xyz"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/nishtha-6465934620/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:npb258@nyu.edu?subject=Olá%20Stefany"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:npb258@nyu.edu?subject=Nishtha%20Bhattacharjee"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -26,7 +26,7 @@ ________________________________________________________________________________
 * :earth_americas: I have volunteered with: **NYC Cares**,**Strive**,**RAIT Social Wing**.
 * 💬 Ask me about: **Data Warehousing**,**Workflow management**, **Leadership**, **Mentorship**,**Diversity**.
 * :baby: Learning more about and studying **Open Source**, **Cloud Solutions**, **CS Algorithms** and **Data Management**.
-* ⚡ Quick learner; successfull working in both team and self-directed settings.
+* ⚡ Quick learner; successful working in both team and self-directed settings.
 * :metal: Excellent communicator, team player and problem-solver.
 * :office: **New York University** and **University of Mumbai** Alumni.
 * :heart: Intrests: Marathon runner :runner:, Soccer enthusiast :soccer:, avid reader :books:, hiking :sunrise_over_mountains:.
