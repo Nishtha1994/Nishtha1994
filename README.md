@@ -17,10 +17,10 @@ ________________________________________________________________________________
 
 
 
-* :battery:  On  a daily basis, I use:
+* :battery:  Proficient in:
  <p align='center'>
  <img src=https://img.shields.io/badge/erwin-data%20modeler-green/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;&nbsp;<img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-Cloud-yellowgreen" />
 </p>
 
 * :earth_americas: I have volunteered with: **Alzheimer's Association**,**NYC Cares'**,**Strive**,**RAIT Social Wing**.
